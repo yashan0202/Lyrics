@@ -57,4 +57,4 @@
         Its unique features like instant lyrics, video access, and mood-based exploration make it a go-to app for music enthusiasts. 
         The clean and interactive UI ensures a delightful user experience, setting a new standard for music applications.
     </p>
-<h2>Developed by: Yash Anand </h2>
+<h2>Developed by: Yash Anand</h2>
